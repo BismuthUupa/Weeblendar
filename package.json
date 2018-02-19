@@ -1,0 +1,26 @@
+{
+  "name": "weeblendar",
+  "version": "1.0.0",
+  "description": "Calender. Weeb'd.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BismuthUupa/Weeblendar.git"
+  },
+  "keywords": [
+    "weeb",
+    "animu",
+    "calendar",
+    "hurr",
+    "durr"
+  ],
+  "author": "BismuthUupa",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/BismuthUupa/Weeblendar/issues"
+  },
+  "homepage": "https://github.com/BismuthUupa/Weeblendar#readme"
+}
